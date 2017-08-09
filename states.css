@@ -1,0 +1,3 @@
+.state { fill: #ccc; cursor: pointer; }
+.state:hover { fill: #aaa; }
+.state.highlight { fill: #e33; }
